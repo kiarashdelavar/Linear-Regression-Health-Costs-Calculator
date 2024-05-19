@@ -1,4 +1,4 @@
-Linear-Regression-Health-Costs-Calculator
+# Linear-Regression-Health-Costs-Calculator
 
 This project aims to predict healthcare costs using a regression algorithm. The dataset includes information about various individuals, such as age, sex, BMI, number of children, smoking status, region, and their healthcare expenses. The goal is to use this data to predict healthcare costs for new individuals.
 
